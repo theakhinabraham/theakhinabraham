@@ -1,4 +1,8 @@
-# 🎯 Akhin Abraham
+<html>
+   <style>
+   </style>
+   <div>
+   # 🎯 Akhin Abraham
 
 **`Flutter Developer: Bringing Ideas to Life with Flutter`**
 
@@ -6,15 +10,17 @@ I'm not just coding, I'm building my piece of the digital world, pixel by pixel.
 
    <p align="left">
       <a href="https://github.com/theakhinabraham?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/theakhinabraham?color=B9FBFF&labelColor=B9FBFF&style=for-the-badge&logo=person-add&label=Follow&logoColor=black"/></a>
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/theakhinabraham?color=B9FBFF&labelColor=B9FBFF&style=for-the-badge&logo=person-add&label=Follow&logoColor=black"/>
+      </a>
       <a href="https://github.com/theakhinabraham?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/theakhinabraham?color=B9FBFF&style=for-the-badge&labelColor=000000&logo=star"/></a>
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/theakhinabraham?color=B9FBFF&style=for-the-badge&labelColor=000000&logo=star"/>
+      </a>
    </p>
-
 <br>
+</div>
 
 <div>
-# 🏆 The Tools and Languages That Fuel My Creativity
+   # 🏆 The Tools and Languages That Fuel My Creativity
    <img align="left" alt="Flutter" height=75px style="padding-right:10px;" src="/img/Flutter.png"/>
    <img align="left" alt="Android" height=75px style="padding-right:10px;" src="/img/Android.png"/>
    <img align="left" alt="Dart" height=75px style="padding-right:10px;" src="/img/Dart.png"/>
@@ -23,10 +29,9 @@ I'm not just coding, I'm building my piece of the digital world, pixel by pixel.
    <img align="left" alt="Git" height=75px style="padding-right:10px;" src="/img/Git.png"/>
    <img align="left" alt="HTML" height=75px style="padding-right:10px;" src="/img/HTML.png"/>
    <img align="left" alt="CSS" height=75px style="padding-right:10px;" src="/img/CSS.png"/>
-</div>
-
    <br>
-   <br>      
+   <br>  
+</div>    
 
 <div>
    <h1>👨‍🚀 Never Too Late to Code: My Coding Journey</h1>
@@ -43,3 +48,4 @@ During our 1 month internship at Techgentsia, My performance as an Android Devel
 
 The story doesn't end here. It never does.
 </div>
+</html>
