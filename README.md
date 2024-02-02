@@ -14,7 +14,7 @@ I'm not just coding, I'm building my piece of the digital world, pixel by pixel.
 ---
 
 ### 🎫 Languages and Tools
-<img align="left" alt="Java" scale=0.5 style="padding-right:10px;" src="/img/Flutter.png"/>
+<img align="left" alt="Java" style="padding-right:10px;" src="/img/Flutter.png"/>
 <img align="left" alt="Java" scale=0.5 style="padding-right:10px;" src="/img/Android.png"/>
 <img align="left" alt="Java" scale=0.5 style="padding-right:10px;" src="/img/Dart.png"/>
 <img align="left" alt="Java" scale=0.5 style="padding-right:10px;" src="/img/JavaScript.png"/>
