@@ -29,7 +29,6 @@ I'm not just coding, I'm building my piece of the digital world, pixel by pixel.
 
 <br>
 <br>
-<br>
 
 <h2>🎢 Akhin's Coding Journey</h2>
 
