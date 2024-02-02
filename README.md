@@ -12,9 +12,8 @@ I'm not just coding, I'm building my piece of the digital world, pixel by pixel.
    </p>
 
 <br>
-<br>
    
-## 🎫 Languages
+## 🎫 The Tools and Languages That Fuel My Creativity
 <img align="left" alt="Flutter" height=75px style="padding-right:10px;" src="/img/Flutter.png"/>
 <img align="left" alt="Android" height=75px style="padding-right:10px;" src="/img/Android.png"/>
 <img align="left" alt="Dart" height=75px style="padding-right:10px;" src="/img/Dart.png"/>
@@ -30,7 +29,7 @@ I'm not just coding, I'm building my piece of the digital world, pixel by pixel.
 <br>
 <br>
 
-<h2>🎢 Akhin's Coding Journey</h2>
+<h2>🎢 Never Too Late to Code: My Coding Journey</h2>
 
 When I was in 8th grade, I had Computer classes but everyone considered it a boring subject. Even our teachers valued Science, Social Science and Maths more. I was good at Science and Maths too, but I also had a huge attachment with Computer Science. I did not consider Computer Science as a subject that I must learn to score marks, but I actually enjoyed it. Something told me that it was meant for me. But, I pursued Bio-maths for my Higher Secondary Education. I enjoyed Biology and Maths, but I just missed creating and developing code instead of just understanding concepts of Science. When it was time to pick my Bachelors, I decided to follow my passion of coding. Putting in the use of Mathematics, I could easily grasp Data Structure and Algorithms. With my ability to learn quickly through imagination rather than reading words as it is, I started to exponentially grow my knowledge of learning new languages after a long 4 year break.
 
