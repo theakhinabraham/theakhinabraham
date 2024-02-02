@@ -12,24 +12,24 @@ I'm not just coding, I'm building my piece of the digital world, pixel by pixel.
    </p>
 
 <br>
-   
+
+<div>
 # 🏆 The Tools and Languages That Fuel My Creativity
-<img align="left" alt="Flutter" height=75px style="padding-right:10px;" src="/img/Flutter.png"/>
-<img align="left" alt="Android" height=75px style="padding-right:10px;" src="/img/Android.png"/>
-<img align="left" alt="Dart" height=75px style="padding-right:10px;" src="/img/Dart.png"/>
-<img align="left" alt="JavaScript" height=75px style="padding-right:10px;" src="/img/JavaScript.png"/>
-<img align="left" alt="Java" height=75px style="padding-right:10px;" src="/img/Java.png"/>
-<img align="left" alt="Git" height=75px style="padding-right:10px;" src="/img/Git.png"/>
-<img align="left" alt="HTML" height=75px style="padding-right:10px;" src="/img/HTML.png"/>
-<img align="left" alt="CSS" height=75px style="padding-right:10px;" src="/img/CSS.png"/>
-<br>
-<br>
-<br>
+   <img align="left" alt="Flutter" height=75px style="padding-right:10px;" src="/img/Flutter.png"/>
+   <img align="left" alt="Android" height=75px style="padding-right:10px;" src="/img/Android.png"/>
+   <img align="left" alt="Dart" height=75px style="padding-right:10px;" src="/img/Dart.png"/>
+   <img align="left" alt="JavaScript" height=75px style="padding-right:10px;" src="/img/JavaScript.png"/>
+   <img align="left" alt="Java" height=75px style="padding-right:10px;" src="/img/Java.png"/>
+   <img align="left" alt="Git" height=75px style="padding-right:10px;" src="/img/Git.png"/>
+   <img align="left" alt="HTML" height=75px style="padding-right:10px;" src="/img/HTML.png"/>
+   <img align="left" alt="CSS" height=75px style="padding-right:10px;" src="/img/CSS.png"/>
 
-<br>
-<br>
+   <br>
+   <br>      
+</div>
 
-<h1>👨‍🚀 Never Too Late to Code: My Coding Journey</h1>
+<div>
+   <h1>👨‍🚀 Never Too Late to Code: My Coding Journey</h1>
 
 When I was in 8th grade, I had Computer classes but everyone considered it a boring subject. Even our teachers valued Science, Social Science and Maths more. I was good at Science and Maths too, but I also had a huge attachment with Computer Science. I did not consider Computer Science as a subject that I must learn to score marks, but I actually enjoyed it. Something told me that it was meant for me. But, I pursued Bio-maths for my Higher Secondary Education.
 
@@ -42,3 +42,4 @@ My eagerness and excitement to learn never fades over time. So, I decided to lea
 During our 1 month internship at Techgentsia, My performance as an Android Developer was extreme. I learned team management, how exciting and fun your work at office can be, leadership, and problem solving.
 
 The story doesn't end here. It never does.
+</div>
