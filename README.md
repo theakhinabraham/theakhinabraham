@@ -15,6 +15,14 @@ I'm not just coding, I'm building my piece of the digital world, pixel by pixel.
 
 ### 🎫 Languages and Tools
 <img align="left" alt="Java" width=100px style="padding-right:10px;" src="/img/Java.png"/>
+<img align="left" alt="Java" width=100px style="padding-right:10px;" src="/img/Java.png"/>
+<img align="left" alt="Java" width=100px style="padding-right:10px;" src="/img/Java.png"/>
+<img align="left" alt="Java" width=100px style="padding-right:10px;" src="/img/Java.png"/>
+<img align="left" alt="Java" width=100px style="padding-right:10px;" src="/img/Java.png"/>
+<img align="left" alt="Java" width=100px style="padding-right:10px;" src="/img/Java.png"/>
+<img align="left" alt="Java" width=100px style="padding-right:10px;" src="/img/Java.png"/>
+<img align="left" alt="Java" width=100px style="padding-right:10px;" src="/img/Java.png"/>
+<img align="left" alt="Java" width=100px style="padding-right:10px;" src="/img/Java.png"/>
 
 <br />
 
