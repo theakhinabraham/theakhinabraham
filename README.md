@@ -15,7 +15,7 @@ I'm not just coding, I'm building my piece of the digital world, pixel by pixel.
 
 ### 🎫 Languages and Tools
 <img align="left" alt="Flutter" height=75px style="padding-right:10px;" src="/img/Flutter.png"/>
-<img align="left" alt="Android" height=65px style="padding-right:10px; margin-top:40px; margin:0;" src="/img/Android.png"/>
+<img align="left" alt="Android" height=65px style="padding-right:10px;" src="/img/Android.png"/>
 <img align="left" alt="Dart" height=75px style="padding-right:10px;" src="/img/Dart.png"/>
 <img align="left" alt="JavaScript" height=75px style="padding-right:10px;" src="/img/JavaScript.png"/>
 <img align="left" alt="Java" height=75px style="padding-right:10px;" src="/img/Java.png"/>
