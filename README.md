@@ -6,9 +6,9 @@ I'm not just coding, I'm building my piece of the digital world, pixel by pixel.
 
    <p align="left">
       <a href="https://github.com/theakhinabraham?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=B9FBFF&labelColor=B9FBFF&style=for-the-badge&logo=person-add&label=Follow&logoColor=black"/></a>
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/theakhinabraham?color=B9FBFF&labelColor=B9FBFF&style=for-the-badge&logo=person-add&label=Follow&logoColor=black"/></a>
       <a href="https://github.com/theakhinabraham?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=B9FBFF&style=for-the-badge&labelColor=000000&logo=star"/></a>
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/theakhinabraham?color=B9FBFF&style=for-the-badge&labelColor=000000&logo=star"/></a>
    </p>
 
 ---
