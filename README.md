@@ -12,7 +12,6 @@ I'm not just coding, I'm building my piece of the digital world, pixel by pixel.
    </p>
 
 ---
-<br>
 
 ## 🎫 Languages
 <img align="left" alt="Flutter" height=75px style="padding-right:10px;" src="/img/Flutter.png"/>
