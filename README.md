@@ -23,8 +23,9 @@ I'm not just coding, I'm building my piece of the digital world, pixel by pixel.
 <img align="left" alt="Java" width=75px style="padding-right:10px;" src="/img/HTML.png"/>
 <img align="left" alt="Java" width=75px style="padding-right:10px;" src="/img/CSS.png"/>
 
+<br><br><br>
+
 #
-<br>
 
 <h3>🎢 Akhin's Coding Journey</h3>
 
