@@ -23,10 +23,10 @@ I'm not just coding, I'm building my piece of the digital world, pixel by pixel.
    <img align="left" alt="Git" height=75px style="padding-right:10px;" src="/img/Git.png"/>
    <img align="left" alt="HTML" height=75px style="padding-right:10px;" src="/img/HTML.png"/>
    <img align="left" alt="CSS" height=75px style="padding-right:10px;" src="/img/CSS.png"/>
+</div>
 
    <br>
    <br>      
-</div>
 
 <div>
    <h1>👨‍🚀 Never Too Late to Code: My Coding Journey</h1>
