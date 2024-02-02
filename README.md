@@ -1,5 +1,5 @@
 <html>
-   <body style="display:flex; justify-content:center;align-items:center;">
+   <body>
          <div>
    <h1>🎯 Akhin Abraham</h1>
 
@@ -20,14 +20,14 @@ I'm not just coding, I'm building my piece of the digital world, pixel by pixel.
 
 <div>
    <h1>🏆 The Tools and Languages That Fuel My Creativity</h1>
-   <img align="left" alt="Flutter" height=75px style="padding-right:10px;" src="/img/Flutter.png"/>
-   <img align="left" alt="Android" height=75px style="padding-right:10px;" src="/img/Android.png"/>
-   <img align="left" alt="Dart" height=75px style="padding-right:10px;" src="/img/Dart.png"/>
-   <img align="left" alt="JavaScript" height=75px style="padding-right:10px;" src="/img/JavaScript.png"/>
-   <img align="left" alt="Java" height=75px style="padding-right:10px;" src="/img/Java.png"/>
-   <img align="left" alt="Git" height=75px style="padding-right:10px;" src="/img/Git.png"/>
-   <img align="left" alt="HTML" height=75px style="padding-right:10px;" src="/img/HTML.png"/>
-   <img align="left" alt="CSS" height=75px style="padding-right:10px;" src="/img/CSS.png"/>
+   <img alt="Flutter" height=75px style="padding-right:10px;" src="/img/Flutter.png"/>
+   <img alt="Android" height=75px style="padding-right:10px;" src="/img/Android.png"/>
+   <img alt="Dart" height=75px style="padding-right:10px;" src="/img/Dart.png"/>
+   <img alt="JavaScript" height=75px style="padding-right:10px;" src="/img/JavaScript.png"/>
+   <img alt="Java" height=75px style="padding-right:10px;" src="/img/Java.png"/>
+   <img alt="Git" height=75px style="padding-right:10px;" src="/img/Git.png"/>
+   <img alt="HTML" height=75px style="padding-right:10px;" src="/img/HTML.png"/>
+   <img alt="CSS" height=75px style="padding-right:10px;" src="/img/CSS.png"/>
    <br>
    <br>  
 </div>    
