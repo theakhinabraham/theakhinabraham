@@ -22,8 +22,10 @@ I'm not just coding, I'm building my piece of the digital world, pixel by pixel.
 <img align="left" alt="Git" height=75px style="padding-right:10px;" src="/img/Git.png"/>
 <img align="left" alt="HTML" height=75px style="padding-right:10px;" src="/img/HTML.png"/>
 <img align="left" alt="CSS" height=75px style="padding-right:10px;" src="/img/CSS.png"/>
+<br>
+<br>
 
-##🎢 Akhin's Coding Journey
+<h2>🎢 Akhin's Coding Journey</h2>
 
 When I was in 8th grade, I had Computer classes but everyone considered it a boring subject. Even our teachers valued Science, Social Science and Maths more. I was good at Science and Maths too, but I also had a huge attachment with Computer Science. I did not consider Computer Science as a subject that I must learn to score marks, but I actually enjoyed it. Something told me that it was meant for me. But, I pursued Bio-maths for my Higher Secondary Education. I enjoyed Biology and Maths, but I just missed creating and developing code instead of just understanding concepts of Science. When it was time to pick my Bachelors, I decided to follow my passion of coding. Putting in the use of Mathematics, I could easily grasp Data Structure and Algorithms. With my ability to learn quickly through imagination rather than reading words as it is, I started to exponentially grow my knowledge of learning new languages after a long 4 year break.
 
@@ -34,6 +36,3 @@ My eagerness and excitement to learn never fades over time. So, I decided to lea
 During our 1 month internship at Techgentsia, My performance as an Android Developer was extreme. I learned team management, how exciting and fun your work at office can be, leadership, and problem solving.
 
 The story doesn't end here. It never does.
-
-[LinkedIn]: https://linkedin.com/in/theakhinabraham
-[Instagram]: https://instagram.com/theakhinabraham
