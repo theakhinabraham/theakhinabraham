@@ -1,6 +1,4 @@
 <html>
-   <style>
-   </style>
    <div>
    # 🎯 Akhin Abraham
 
