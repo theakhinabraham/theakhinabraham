@@ -1,6 +1,6 @@
 <html>
    <div>
-   # 🎯 Akhin Abraham
+   <h1>🎯 Akhin Abraham</h1>
 
 **`Flutter Developer: Bringing Ideas to Life with Flutter`**
 
@@ -17,7 +17,7 @@ I'm not just coding, I'm building my piece of the digital world, pixel by pixel.
 <br>
 </div>
 
-<div>
+<div style="display:flex;">
    <h2>🏆 The Tools and Languages That Fuel My Creativity</h2>
    <img align="left" alt="Flutter" height=75px style="padding-right:10px;" src="/img/Flutter.png"/>
    <img align="left" alt="Android" height=75px style="padding-right:10px;" src="/img/Android.png"/>
@@ -31,7 +31,7 @@ I'm not just coding, I'm building my piece of the digital world, pixel by pixel.
    <br>  
 </div>    
 
-<div>
+<div style="display:flex;">
    <h1>👨‍🚀 Never Too Late to Code: My Coding Journey</h1>
 
 When I was in 8th grade, I had Computer classes but everyone considered it a boring subject. Even our teachers valued Science, Social Science and Maths more. I was good at Science and Maths too, but I also had a huge attachment with Computer Science. I did not consider Computer Science as a subject that I must learn to score marks, but I actually enjoyed it. Something told me that it was meant for me. But, I pursued Bio-maths for my Higher Secondary Education.
