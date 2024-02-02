@@ -1,5 +1,5 @@
 <html>
-   <body style="display:flex; justify-content:center">
+   <body style="display:flex; justify-content:center;align-items:center;">
          <div>
    <h1>🎯 Akhin Abraham</h1>
 
