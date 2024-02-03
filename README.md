@@ -21,7 +21,7 @@ Functionality is key, but intuitive interfaces that delight? My jam. Partner wit
 </div>
 
 <div>
-   <h1>🏆 The Tools and Languages That Fuel My Creativity</h1>
+   <h2>🏆 The Tools and Languages That Fuel My Creativity</h2>
    <img alt="Flutter" height=75px style="padding-right:10px;" src="/img/Flutter.png"/>
    <img alt="Android" height=75px style="padding-right:10px;" src="/img/Android.png"/>
    <img alt="Dart" height=75px style="padding-right:10px;" src="/img/Dart.png"/>
@@ -35,7 +35,7 @@ Functionality is key, but intuitive interfaces that delight? My jam. Partner wit
 </div>    
 
 <div>
-   <h1>👨‍🚀 Never Too Late to Code: My Coding Journey</h1>
+   <h2>👨‍🚀 Never Too Late to Code: My Coding Journey</h2>
 
 When I was in 8th grade, I had Computer classes but everyone considered it a boring subject. Even our teachers valued Science, Social Science and Maths more. I was good at Science and Maths too, but I also had a huge attachment to Computer Science.
 
