@@ -37,33 +37,29 @@ Functionality is key, but intuitive interfaces that delight? My jam. Partner wit
 <div>
    <h2>👨‍🚀 Never Too Late to Code: My Coding Journey</h2>
 
-When I was in 8th grade, I had Computer classes but everyone considered it a boring subject. Even our teachers valued Science, Social Science and Maths more. I was good at Science and Maths too, but I also had a huge attachment to Computer Science.
+I love helping people live an easier and more joyful life. That's what got me to be a Flutter Developer.
 
-I did not consider Computer Science as a subject that I must learn to score marks, but I enjoyed it. Something told me that it was meant for me. But, I pursued Bio-maths for my Higher Secondary Education.
+During 8th-grade computer classes, we moved from theory classes to actual coding. Then it struck me that I can turn my creativity into something beautiful with code. That's how I fell in love.
 
-I enjoyed Biology and Maths, but I just missed creating and developing code instead of just understanding concepts of Science.
+We were told to focus on physics and history so I considered coding as a fun hobby that I enjoy doing.
 
-When it was time to pick my Bachelor, I decided to follow my passion for coding. Through the use of Mathematics, I could easily grasp Data Structure and Algorithms.
+I opted for science for 11th grade. I was great at biology and math, but I knew something was off. I didn't enjoy it.
 
-With my ability to learn quickly through imagination rather than reading words as it is, I started to exponentially grow my knowledge of learning new languages after a long 4-year break.
+When it was time to pick a college, it hit me that THIS was going to shape my future. I decided to be a Software Developer.
 
-Throughout my Bachelor of Computer Application, I learnt: C, C++, JavaScript, Mathematics, Algorithms, Data Structures, HTML, CSS, PHP, MySQL, and Android Studio with Java.
+During college, I led multiple teams for group projects. We made web apps with HTML, CSS, JavaScript, PHP, MySQL & Bootstrap. We learned app development with Android Studio using Java and Firebase. Additionally, we learned C, C++, Mathematics, Data Structures and Algorithms.
 
-Our College managed to get us paid access to all courses. We were told to do 2, but I realised that I had access to 6-7 certification courses, so I made complete use of it.
+My 1-month Internship program with Techgentsia as an App Developer exposed me to work life and office environment. I grasped team management and team leadership. Above all, I realised that you can't hate the work that you enjoy.
 
-With this opportunity, I managed to learn: Python, Mathematical Problem Solving, JavaScript, Data Structure, and a few more.
+My learning curve never ends. I began to learn online and understood additional concepts of Flutter & Dart and decided to be a Flutter Developer. I extended my knowledge with Riverpod, RESTful API & graphQL API.
 
-My eagerness and excitement to learn never fade over time. So, I decided to learn even more from YouTube and Books. Even though I didn't get certificates, I learnt many new things.
+I decided to learn Kotlin for Android Development with Jetpack Compose, JUnit5 and more. Now, I can build both cross platform apps and native apps with beautiful UI designs.
 
-I realised that NoSQL is more comfortable for me than MySQL. I realised that Java is outdated for Android Studio. My options were Kotlin for Android or Flutter for cross platform.
+I create mobile applications in my free time, stay updated with the new technologies and continue to learn.
 
-I decided to pick Flutter. I will learn Kotlin as well when I find time. I learned Firebase & Firestore.
+Time management and quality are key when it comes to development. I realised that the way to achieve efficiency is by doing what you love and enjoy doing.
 
-I learned to host websites, wordpress elementor, domain and hosting process, SEO, and many more.
-
-During our 1 month internship at Techgentsia, My performance as an Android Developer was extreme. I learned team management, how exciting and fun your work at the office can be, leadership, and problem-solving.
-
-The story doesn't end here. It never does.
+Fortunately, I love coding.
 </div>
    </body>
 </html>
