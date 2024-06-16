@@ -3,11 +3,11 @@
          <div>
    <h1>🎯 Akhin Abraham</h1>
 
-**`Flutter Developer: Bringing Ideas to Life with Flutter`**
+**`Data Scientist: Building ML Models that Matter.`**
 
-I'm not just coding, I'm building my piece of the digital world, pixel by pixel. Each project? An adventure! I sketch, design, and then code solutions that solve real problems with a touch of beauty.
+I'm not just coding, I'm building my piece of the digital world, pixel by pixel. Each project? An adventure! I analyse, design, and then build models that solve real problems.
 
-Functionality is key, but intuitive interfaces that delight? My jam. Partner with me to turn your app vision into a masterpiece, whether it's solving a challenge or just looking stunning. Let's build something awesome!
+Unleash the hidden revenue in your data. I build custom machine learning models that streamline workflows and boost your bottom line. 
 
    <p align="left">
       <a href="https://github.com/theakhinabraham?tab=followers">
@@ -37,7 +37,7 @@ Functionality is key, but intuitive interfaces that delight? My jam. Partner wit
 <div>
    <h2>👨‍🚀 Never Too Late to Code: My Coding Journey</h2>
 
-I love helping people live an easier and more joyful life. That's what got me to be a Flutter Developer.
+I love helping businesses work efficiently and save time. That's what got me to be a Data Scientist.
 
 During 8th-grade computer classes, we moved from theory classes to actual coding. Then it struck me that I can turn my creativity into something beautiful with code. That's how I fell in love.
 
@@ -51,11 +51,11 @@ During college, I led multiple teams for group projects. We made web apps with H
 
 My 1-month Internship program with Techgentsia as an App Developer exposed me to work life and office environment. I grasped team management and team leadership. Above all, I realised that you can't hate the work that you enjoy.
 
-My learning curve never ends. I began to learn online and understood additional concepts of Flutter & Dart and decided to be a Flutter Developer. I extended my knowledge with Riverpod, RESTful API & graphQL API.
+My learning curve never ends. I began to learn Python, Mathematics, Data Modelling, Machine Learning and SQL for Data Science.
 
-I decided to learn Kotlin for Android Development with Jetpack Compose, JUnit5 and more. Now, I can build both cross platform apps and native apps with beautiful UI designs.
+I decided to take my Masters in Data Science from the UK to gain additional knowledge and pick Data Science as my Career Path.
 
-I create mobile applications in my free time, stay updated with the new technologies and continue to learn.
+I create Machine Learning Products and Applications in my free time, stay updated with the new technologies and continue to learn.
 
 Time management and quality are key when it comes to development. I realised that the way to achieve efficiency is by doing what you love and enjoy doing.
 
