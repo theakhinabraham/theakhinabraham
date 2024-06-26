@@ -57,7 +57,7 @@ My journey to becoming a Data Scientist began in 8th grade when I discovered the
 </div>
 
 <div>
-   <h2>📽️ Creating Content</h2>
+   <h2>👋🏻 Connect with Me</h2>
    
 [![Twitter](https://img.shields.io/twitter/follow/akhinabr?style=social)](https://www.twitter.com/akhinabr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theakhinabraham/)
