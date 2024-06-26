@@ -21,45 +21,49 @@ Unleash the hidden revenue in your data. I build custom machine learning models 
 </div>
 
 <div>
-   <h2>🏆 The Tools and Languages That Fuel My Creativity</h2>
-   <img alt="Flutter" height=75px style="padding-right:10px;" src="/img/Flutter.png"/>
-   <img alt="Android" height=75px style="padding-right:10px;" src="/img/Android.png"/>
-   <img alt="Dart" height=75px style="padding-right:10px;" src="/img/Dart.png"/>
-   <img alt="JavaScript" height=75px style="padding-right:10px;" src="/img/JavaScript.png"/>
-   <img alt="Java" height=75px style="padding-right:10px;" src="/img/Java.png"/>
-   <img alt="Git" height=75px style="padding-right:10px;" src="/img/Git.png"/>
-   <img alt="HTML" height=75px style="padding-right:10px;" src="/img/HTML.png"/>
-   <img alt="CSS" height=75px style="padding-right:10px;" src="/img/CSS.png"/>
+   <h2>🏆 Tools and Languages</h2>
+   <img alt="Python" height=50px style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"/>
+   <img alt="Django" height=50px style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=AksudKrBQryM&format=png&color=006F5C"/>
+   <img alt="Javascript" height=50px style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000"/>
+   <img alt="Java" height=50px style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000"/>
+   <img alt="Git" height=50px style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"/>
+   <img alt="HTML" height=50px style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"/>
+   <img alt="CSS" height=50px style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000"/>
+   <img alt="Juypter" height=50px style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000"/>
+   <img alt="PostgresSQL" height=50px style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000"/>
+   <img alt="MySQL" height=50px style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000"/>
+   <img alt="Firebase" height=50px style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000"/>
+   <img alt="PHP" height=50px style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=fAMVO_fuoOuC&format=png&color=000000"/>
+   <img alt="Android" height=50px style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=P2AnGyiJxMpp&format=png&color=000000"/>
+   <img alt="Tensorflow" height=50px style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000"/>
+   <img alt="AWS" height=50px style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000"/>
+   
    <br>
    <br>  
 </div>    
 
 <div>
-   <h2>👨‍🚀 Never Too Late to Code: My Coding Journey</h2>
-
-I love helping businesses work efficiently and save time. That's what got me to be a Data Scientist.
-
-During 8th-grade computer classes, we moved from theory classes to actual coding. Then it struck me that I can turn my creativity into something beautiful with code. That's how I fell in love.
-
-We were told to focus on physics and history so I considered coding as a fun hobby that I enjoy doing.
-
-I opted for science for 11th grade. I was great at biology and math, but I knew something was off. I didn't enjoy it.
-
-When it was time to pick a college, it hit me that THIS was going to shape my future. I decided to be a Software Developer.
-
-During college, I led multiple teams for group projects. We made web apps with HTML, CSS, JavaScript, PHP, MySQL & Bootstrap. We learned app development with Android Studio using Java and Firebase. Additionally, we learned C, C++, Mathematics, Data Structures and Algorithms.
-
-My 1-month Internship program with Techgentsia as an App Developer exposed me to work life and office environment. I grasped team management and team leadership. Above all, I realised that you can't hate the work that you enjoy.
-
-My learning curve never ends. I began to learn Python, Mathematics, Data Modelling, Machine Learning and SQL for Data Science.
-
-I decided to take my Masters in Data Science from the UK to gain additional knowledge and pick Data Science as my Career Path.
-
-I create Machine Learning Products and Applications in my free time, stay updated with the new technologies and continue to learn.
-
-Time management and quality are key when it comes to development. I realised that the way to achieve efficiency is by doing what you love and enjoy doing.
-
-Fortunately, I love coding.
+   <h2>👨‍🚀 My Coding Journey</h2>
+   
+My journey to becoming a Data Scientist began in 8th grade when I discovered the magic of coding during computer classes. Despite being encouraged to focus on subjects like physics and history, coding remained my true passion. In 11th grade, I chose science but felt unfulfilled, realizing that coding was what I truly enjoyed. When it came time to pick a college, I knew that my future lay in software development. College allowed me to lead teams and create web and mobile apps, deepening my love for coding. I later decided to pursue a Master's in Data Science in the UK to further my knowledge.
 </div>
+
+<div>
+   <h2>📽️ Creating Content</h2>
+
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCIjgpA0gm0OwNLORQZo25Pg?style=social)](http://youtube.com/akhinab)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&style=social&logo=github&logoColor=white)](https://github.com/theakhinabraham/)
+[![Newsletter](https://img.shields.io/badge/Newsletter-3A8EED?style=for-the-badge&style=social&logoColor=white)](https://akhinabr.substack.com/)
+</div>
+
+<div>
+   <h2>📽️ Creating Content</h2>
+   
+[![Twitter](https://img.shields.io/twitter/follow/akhinabr?style=social)](https://www.twitter.com/akhinabr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theakhinabraham/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&style=social&logo=instagram&logoColor=white)](https://www.instagram.com/theakhinabraham/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&style=social&logo=facebook&logoColor=white)](http://facebook.com/AkhinAbr/)
+</div>
+
    </body>
 </html>
