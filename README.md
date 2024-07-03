@@ -3,11 +3,11 @@
          <div>
    <h1>🎯 Akhin Abraham</h1>
 
-**`Data Scientist: Building ML Models that Matter.`**
+**`Indie Hacker: Building ML/AI Models & Web Apps.`**
 
-I'm not just coding, I'm building my piece of the digital world, pixel by pixel. Each project? An adventure! I analyse, design, and then build models that solve real problems.
+I enjoy creating Web Apps and ML models that help individuals and businesses run efficiently.
 
-Unleash the hidden revenue in your data. I build custom machine learning models that streamline workflows and boost your bottom line. 
+I build custom ML models as a Data Scientist and also find, analyse and solve problems by building Web Apps 
 
    <p align="left">
       <a href="https://github.com/theakhinabraham?tab=followers">
