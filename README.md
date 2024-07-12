@@ -51,7 +51,7 @@ My journey to becoming a Data Scientist began in 8th grade when I discovered the
 <div>
    <h2>📽️ Creating Content</h2>
 
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCIjgpA0gm0OwNLORQZo25Pg?style=social)](http://youtube.com/akhinab)
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCIjgpA0gm0OwNLORQZo25Pg?style=social)](http://youtube.com/akhinabr)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&style=social&logo=github&logoColor=white)](https://github.com/theakhinabraham/)
 [![Newsletter](https://img.shields.io/badge/Newsletter-3A8EED?style=for-the-badge&style=social&logoColor=white)](https://akhinabr.substack.com/)
 </div>
