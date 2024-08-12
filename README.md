@@ -51,7 +51,12 @@ My journey to becoming a Data Scientist began in 8th grade when I discovered the
 <div>
    <h2>📽️ Creating Content</h2>
 
+   <!--
+   
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCIjgpA0gm0OwNLORQZo25Pg?style=social)](http://youtube.com/akhinabr)
+
+-->
+   
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&style=social&logo=github&logoColor=white)](https://github.com/theakhinabraham/)
 [![Newsletter](https://img.shields.io/badge/Newsletter-3A8EED?style=for-the-badge&style=social&logoColor=white)](https://akhinabr.substack.com/)
 </div>
@@ -61,8 +66,12 @@ My journey to becoming a Data Scientist began in 8th grade when I discovered the
    
 [![Twitter](https://img.shields.io/twitter/follow/akhinabr?style=social)](https://www.twitter.com/akhinabr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theakhinabraham/)
+
+<!--
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&style=social&logo=instagram&logoColor=white)](https://www.instagram.com/theakhinabraham/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&style=social&logo=facebook&logoColor=white)](http://facebook.com/AkhinAbr/)
+-->
+
 </div>
 
    </body>
