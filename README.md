@@ -3,7 +3,7 @@
          <div>
    <h1>🎯 Akhin Abraham</h1>
 
-**`Indie Hacker: Building ML/AI Models & Web Apps.`**
+**`Indie Hacker: Building ML/AI Models & Apps.`**
 
 I enjoy creating Apps and ML models that help individuals and businesses run efficiently.
 
