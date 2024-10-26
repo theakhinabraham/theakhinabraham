@@ -5,9 +5,9 @@
 
 **`Indie Hacker: Building ML/AI Models & Web Apps.`**
 
-I enjoy creating Web Apps and ML models that help individuals and businesses run efficiently.
+I enjoy creating Apps and ML models that help individuals and businesses run efficiently.
 
-I build custom ML models as a Data Scientist and also find, analyse and solve problems by building Web Apps 
+I build custom ML models as a Data Scientist and also find, analyse and solve problems by building Apps 
 
    <p align="left">
       <a href="https://github.com/theakhinabraham?tab=followers">
