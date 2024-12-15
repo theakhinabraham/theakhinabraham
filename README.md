@@ -58,7 +58,7 @@ My journey to becoming a Data Scientist began in 8th grade when I discovered the
 -->
    
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&style=social&logo=github&logoColor=white)](https://github.com/theakhinabraham/)
-[![Newsletter](https://img.shields.io/badge/Newsletter-3A8EED?style=for-the-badge&style=social&logoColor=white)](https://subscribepage.io/akhin/)
+[![Newsletter](https://img.shields.io/badge/Newsletter-3A8EED?style=for-the-badge&style=social&logoColor=white)](https://akhinabraham.com/)
 </div>
 
 <div>
