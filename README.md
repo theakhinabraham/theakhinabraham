@@ -3,7 +3,7 @@
          <div>
    <h1>🎯 Akhin Abraham</h1>
 
-**`Indie Hacker: Building ML/AI Models & Apps.`**
+**`Indie Hacker: Building Flutter & Kotlin Mobile Apps.`**
 
 I enjoy creating Mobile Apps that help individuals and make a change.
 
@@ -58,7 +58,8 @@ My journey to becoming a Mobile App Developer began in 8th grade when I discover
 -->
    
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&style=social&logo=github&logoColor=white)](https://github.com/theakhinabraham/)
-[![Newsletter](https://img.shields.io/badge/Newsletter-3A8EED?style=for-the-badge&style=social&logoColor=white)](https://akhinabraham.com/)
+[![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&style=social&logoColor=white)](https://youtube.com/@AkhinAbr)
+[![Instagram](https://img.shields.io/badge/Instagram-c13584?style=for-the-badge&style=social&logoColor=white)](https://instagram.com/AkhinAbr)
 </div>
 
 <div>
