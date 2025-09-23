@@ -22,21 +22,21 @@ I build Flutter Apps as a Mobile App Developer and also find, analyse and solve 
 
 <div>
    <h2>🏆 Tools and Languages</h2>
-   <img alt="Python" height=50px style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"/>
-   <img alt="Django" height=50px style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=AksudKrBQryM&format=png&color=006F5C"/>
-   <img alt="Javascript" height=50px style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000"/>
+   <img alt="Flutter" height=50px style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=7I3BjCqe9rjG&format=png&color=000000"/>
+   <img alt="Dart" height=50px style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=7AFcZ2zirX6Y&format=png&color=000000"/>
+   <img alt="Android" height=50px style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=P2AnGyiJxMpp&format=png&color=000000"/>
    <img alt="Java" height=50px style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000"/>
-   <img alt="Git" height=50px style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"/>
+   <img alt="Kotlin" height=50px style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=ZoxjA0jZDdFZ&format=png&color=000000"/>
    <img alt="HTML" height=50px style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"/>
    <img alt="CSS" height=50px style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000"/>
-   <img alt="Juypter" height=50px style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000"/>
+   <img alt="JS" height=50px style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000"/>
    <img alt="PostgresSQL" height=50px style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000"/>
    <img alt="MySQL" height=50px style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000"/>
    <img alt="Firebase" height=50px style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000"/>
-   <img alt="PHP" height=50px style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=fAMVO_fuoOuC&format=png&color=000000"/>
-   <img alt="Android" height=50px style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=P2AnGyiJxMpp&format=png&color=000000"/>
-   <img alt="Tensorflow" height=50px style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000"/>
-   <img alt="AWS" height=50px style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000"/>
+   <img alt="Android 2" height=50px style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=04OFrkjznvcd&format=png&color=000000"/>
+   <img alt="Android Studio" height=50px style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=EgOU93v1DHjU&format=png&color=000000"/>
+   <img alt="Google Play Store" height=50px style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=rZwnRdJyYqRi&format=png&color=000000"/>
+   <img alt="App Store" height=50px style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=4PbFeZOKAc61&format=png&color=000000"/>
    
    <br>
    <br>  
