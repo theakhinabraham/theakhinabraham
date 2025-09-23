@@ -5,9 +5,9 @@
 
 **`Indie Hacker: Building ML/AI Models & Apps.`**
 
-I enjoy creating Apps and ML models that help individuals and businesses run efficiently.
+I enjoy creating Mobile Apps that help individuals and make a change.
 
-I build custom ML models as a Data Scientist and also find, analyse and solve problems by building Apps 
+I build Flutter Apps as a Mobile App Developer and also find, analyse and solve problems.
 
    <p align="left">
       <a href="https://github.com/theakhinabraham?tab=followers">
@@ -45,7 +45,7 @@ I build custom ML models as a Data Scientist and also find, analyse and solve pr
 <div>
    <h2>👨‍🚀 My Coding Journey</h2>
    
-My journey to becoming a Data Scientist began in 8th grade when I discovered the magic of coding during computer classes. Despite being encouraged to focus on subjects like physics and history, coding remained my true passion. In 11th grade, I chose science but felt unfulfilled, realizing that coding was what I truly enjoyed. When it came time to pick a college, I knew that my future lay in software development. College allowed me to lead teams and create web and mobile apps, deepening my love for coding. I later decided to pursue a Master's in Data Science in the UK to further my knowledge.
+My journey to becoming a Mobile App Developer began in 8th grade when I discovered the magic of coding during computer classes. Despite being encouraged to focus on subjects like physics and history, coding remained my true passion. In 11th grade, I chose science but felt unfulfilled, realizing that coding was what I truly enjoyed. When it came time to pick a college, I knew that my future lay in software development. College allowed me to lead teams and create web and mobile apps, deepening my love for coding. I later decided to pursue a Master's in Data Science in the UK to further my knowledge.
 </div>
 
 <div>
