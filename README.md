@@ -3,11 +3,11 @@
          <div>
    <h1>🎯 Akhin Abraham</h1>
 
-**`Indie Hacker: Building Flutter & Kotlin Mobile Apps.`**
+**`Flutter Developer & UI/UX Designer`**
 
 I enjoy creating Mobile Apps that help individuals and make a change.
 
-I build Flutter Apps as a Mobile App Developer and also find, analyse and solve problems.
+I build Flutter Apps as a Mobile App Developer and also design modern UI designs.
 
    <p align="left">
       <a href="https://github.com/theakhinabraham?tab=followers">
@@ -26,7 +26,6 @@ I build Flutter Apps as a Mobile App Developer and also find, analyse and solve 
    <img alt="Dart" height=50px style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=7AFcZ2zirX6Y&format=png&color=000000"/>
    <img alt="Android" height=50px style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=P2AnGyiJxMpp&format=png&color=000000"/>
    <img alt="Java" height=50px style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000"/>
-   <img alt="Kotlin" height=50px style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=ZoxjA0jZDdFZ&format=png&color=000000"/>
    <img alt="HTML" height=50px style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"/>
    <img alt="CSS" height=50px style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000"/>
    <img alt="JS" height=50px style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000"/>
