@@ -44,7 +44,7 @@ I build Flutter Apps as a Mobile App Developer and also design modern UI designs
 <div>
    <h2>👨‍🚀 My Coding Journey</h2>
    
-My journey to becoming a Mobile App Developer began in 8th grade when I discovered the magic of coding during computer classes. Despite being encouraged to focus on subjects like physics and history, coding remained my true passion. In 11th grade, I chose science but felt unfulfilled, realizing that coding was what I truly enjoyed. When it came time to pick a college, I knew that my future lay in software development. College allowed me to lead teams and create web and mobile apps, deepening my love for coding. I later decided to pursue a Master's in Data Science in the UK to further my knowledge.
+My journey to becoming a Mobile App Developer began in 8th grade when I discovered the magic of coding during computer classes. Despite being encouraged to focus on subjects like physics and history, coding remained my true passion. In 11th grade, I chose science but felt unfulfilled, realizing that coding was what I truly enjoyed. When it came time to pick a college, I knew that my future lay in software development. College allowed me to lead teams and create web and mobile apps, deepening my love for coding. I later decided to self-learn flutter by developing apps and working on Leetcode.
 </div>
 
 <div>
